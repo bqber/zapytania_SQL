@@ -1,0 +1,6 @@
+CREATE TABLE `Destynacja` (
+  `Id_Destynacji` int AUTO_INCREMENT,
+  `Waluta` varchar(255),
+  `Nazwa_Destynacji` varchar(255),
+  PRIMARY KEY (`Id_Destynacji`)
+);
