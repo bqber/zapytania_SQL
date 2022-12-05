@@ -1,0 +1,2 @@
+INSERT INTO pasazer (Imie_Nazwisko, PESEL, Tel, Email)
+VALUES ('Miroslaw Janowski','79080999362','145672649','Mirosław_Janowski@gmail.com');
